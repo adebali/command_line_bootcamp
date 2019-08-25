@@ -21,4 +21,3 @@ if (!qs.server) qs.server = opts.server
 opts.console += '?'+querystring.stringify(qs)
 
 var adventure = adventureTime(opts)
-# #
